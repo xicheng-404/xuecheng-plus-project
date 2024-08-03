@@ -10,8 +10,8 @@
         <relativePath>../xuecheng-plus-parent</relativePath>
     </parent>
 <!-- 改动一下 -->
-<!--uuuuu-->
-<!--改这里-->
+<!--    pppp-->
+    <!--改这里-->
 
     <artifactId>xuecheng-plus-base</artifactId>
 
