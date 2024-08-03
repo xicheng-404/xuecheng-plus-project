@@ -6,9 +6,11 @@
         <groupId>com.xuecheng</groupId>
         <artifactId>xuecheng-plus-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-<!--        基于当前的pom.xml找到父工程-->
+<!-- 基于当前的pom.xml找到父工程-->
         <relativePath>../xuecheng-plus-parent</relativePath>
     </parent>
+
+
 
 
     <artifactId>xuecheng-plus-base</artifactId>
